@@ -4,3 +4,15 @@
     padding: 15px;
     border-radius: 10px;
 }
+
+.visited{
+    background-color: cornflowerblue;
+    color: white;
+}
+.no-visited{
+    background-color: darkkhaki;
+}
+
+.flag-container img{
+    width: 70px;
+}
